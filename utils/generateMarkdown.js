@@ -57,8 +57,7 @@ function generateMarkdown(data) {
     TOC = "";
   }
 
-  return `
-  # ${data.title}
+  return `# ${data.title}
 
   ${licenseBadge}
 
@@ -91,8 +90,7 @@ function generateMarkdown(data) {
   <br/>
   Link to my [GitHub](https://github.com/${data.github}) profile.
   <br/>
-  Reach me at my [email](mailto:${data.email}) for additional questions!
-`;
+  Reach me at my [email](mailto:${data.email}) for additional questions!`;
 }
 
 module.exports = generateMarkdown;
