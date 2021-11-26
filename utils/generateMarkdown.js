@@ -89,11 +89,9 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## Questions
-  Contact Me
+  For additional questions, contact me by reaching me at my [email](mailto:${data.email}).
   <br/>
-  Link to my [GitHub](https://github.com/${data.github}) profile.
-  <br/>
-  Reach me at my [email](mailto:${data.email}) for additional questions!`;
+  You can find my other projects at my [GitHub](https://github.com/${data.github}) profile.`;
 }
 
 module.exports = generateMarkdown;
