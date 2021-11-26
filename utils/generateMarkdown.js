@@ -71,8 +71,10 @@ function generateMarkdown(data) {
 
   ## Usage
   ${data.usage}
-
-  <img src="${data.screenshot}" alt="Screenshot of ${data.title} Webpage"/>
+  <br/>
+  ### Screenshot of Project
+  <br/>
+  <img src="${data.screenshot}" alt="Screenshot of ${data.title}"/>
 
   ${licenseSection}
   ${licenseLink}
