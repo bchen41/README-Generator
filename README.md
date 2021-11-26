@@ -57,10 +57,8 @@ N/A
 
 ## Questions
 
-Contact Me
+For additional questions, contact me by reaching me at my [email](mailto:bettychen41@outlook.com).
 <br/>
-Link to my [GitHub](https://github.com/bchen41) profile.
-<br/>
-Reach me at my [email](mailto:bettychen41@outlook.com) for additional questions!
+You can find my other projects at my [GitHub](https://github.com/bchen41) profile.
 
 Author: Betty Chen
