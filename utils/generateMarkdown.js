@@ -77,7 +77,8 @@ function generateMarkdown(data) {
   <img src="${data.screenshot}" alt="Screenshot of ${data.title}"/>
 
   ${licenseSection}
-  ${licenseLink}
+  <br/>
+  Click [here](${licenseLink}) to be directed to the license link.
 
   ## Contributing
   ${data.contribution}

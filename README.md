@@ -42,7 +42,8 @@ Click [here](https://drive.google.com/file/d/1u64gP5-1TfEZme_9gz3TGqRt3rufmpyI/v
 ![badge](https://img.shields.io/badge/license-MIT-blue)
 <br/>
 This application is covered by the MIT license.
-https://opensource.org/licenses/MIT
+<br/>
+Click [here](https://opensource.org/licenses/MIT) for the license link.
 
 ## Contributing
 
