@@ -4,7 +4,7 @@
 
 ## Description
 
-Description about the project
+Description of project
 
 ## Table of Contents
 
@@ -17,24 +17,29 @@ Description about the project
 
 ## Installations
 
-1.... 2.... 3....
+1... 2... 3...
 
 ## Usage
 
-This project can be used by doing this to achieve this
+Use the project by doing this to achieve this
+<br/>
 
-  <img src="assets/images/screenshot-sample.png" alt="Screenshot of Sample Title Webpage"/>
+### Screenshot of Project
+
+  <br/>
+  <img src="assets/images/sample-screenshot.png" alt="Screenshot of Sample Title"/>
 
 ## License
 
 ![badge](https://img.shields.io/badge/license-MIT-blue)
 <br/>
 This application is covered by the MIT license.
-https://opensource.org/licenses/MIT
+<br/>
+Click [here](https://opensource.org/licenses/MIT) to be directed to the license link.
 
 ## Contributing
 
-Follow the standard industry guidelines.
+Follow the standard industry guidelines
 <br/>
 Click [here](https://www.contributor-covenant.org/) for industry standard guidelines.
 
